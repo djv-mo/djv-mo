@@ -15,7 +15,6 @@ I have a strong background in Python and Django, and have experience building RE
 ## Experience
 
 - Built a CRUD web application using Django and Vue.js
-- Developed a data analytics platform using Python and Django
 - Participated in hackathons
 
 ## Motivation

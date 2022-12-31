@@ -24,6 +24,6 @@ I am always looking to learn and stay up-to-date with the latest technologies an
 
 ## Contact
 
-Feel free to contact me if you have any questions or would like to discuss potential collaborations. You can reach me at solutiond700@gmail.com(mailto:solutiond700@gmail.com).
+Feel free to contact me if you have any questions or would like to discuss potential collaborations. You can reach me at [solutiond700@gmail.com](mailto:solutiond700@gmail.com).
 
 [Linkdin Profile](https://www.linkedin.com/in/mohamed-ali-atiya/)

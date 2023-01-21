@@ -2,19 +2,20 @@
 
 I am a highly motivated and results-driven developer with a passion for building intuitive and scalable software solutions.
 
-I have a strong background in Python and Django, and have experience building REST APIs and integrating with various databases. I also have expertise in Vue.js, and have used it to build interactive and engaging user interfaces.
+I have a strong background in Python , Django and Fastapi, and have experience building REST APIs and integrating with various databases. I also have expertise in Vue.js, and have used it to build interactive and engaging user interfaces.
 
 ## Skills
 
 - Python
 - Django
+- Fastapi
 - Vue.js
 - REST APIs
 - Databases (MySQL, Postgresql, etc.)
 
 ## Experience
 
-- Built a CRUD web application using Django and Vue.js
+- Built a CRUD web application using Django, Fastapi and Vue.js
 - Participated in hackathons
 
 ## Motivation
